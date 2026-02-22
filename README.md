@@ -8,8 +8,7 @@ some basic elements of coa like adder multiplier etc
 <br> <img width="637" height="845" alt="image" src="https://github.com/user-attachments/assets/9b7d2ce4-8aaa-443d-802c-a2aeefe0717d" />
 <br> 16 bit multiple 
 <br> <img width="1047" height="825" alt="image" src="https://github.com/user-attachments/assets/87668f1d-4063-49db-aae1-6d03497e7124" />
-<br> 16 bit a right shifter 
-<br> <img width="194" height="737" alt="image" src="https://github.com/user-attachments/assets/a60e26e4-0f57-4d81-9707-114c696ceb01" />
-<br> 16 bit left shifter 
-<br> <img width="313" height="832" alt="image" src="https://github.com/user-attachments/assets/601042a9-150b-428a-8529-99e0b18a4a69" />
+<br> 16 bit a right shifter                                     16 bit left shifter 
+<br> <img width="194" height="737" alt="image" src="https://github.com/user-attachments/assets/a60e26e4-0f57-4d81-9707-114c696ceb01" />   <img width="313" height="832" alt="image" src="https://github.com/user-attachments/assets/601042a9-150b-428a-8529-99e0b18a4a69" />
+
 
